@@ -1,5 +1,5 @@
 # Nextjs-design-system
-### Frontend in React.js and Next.js. Application developed for the study of next.js and serverless
+### Frontend in React.js and Next.js. Application developed for the study of next.js and serverless with the guidance of instructor Diego Fernandes of the teaching platform `Rocketseat`
 ##
 ### Steps to run the applications
 
