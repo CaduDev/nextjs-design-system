@@ -8,7 +8,7 @@
 ##### `yarn dev` in CMD or PowerShell To start project
 ##
 ### To add mongodb to the project follow the instructions
-##### mongodb was used in this project, so, after cloning the project, go to the `.env` file and paste and replace the `<dbname>` with the name of your database and `<password>` with the one you use to access it
+##### mongodb was used in this project, so after cloning the project, create a `.env` file (don't forget to add it to gitignore) in the project root and create the `MONGODB_URI` environment variable and give it your word connection to connect to mongodb
 ##
 ## Tech
 - [node.js] - Node.js is open-source, cross-platform software based on Google's V8 interpreter that allows JavaScript code to run outside of a web browser.
