@@ -7,6 +7,7 @@
 ##### `yarn install` To install all Node.js packages that are needed
 ##### `yarn dev` in CMD or PowerShell To start project
 ##
+### To add mongodb to the project follow the instructions
 ##### mongodb was used in this project, so, after cloning the project, go to the `.env` file and paste and replace the `<dbname>` with the name of your database and `<password>` with the one you use to access it
 ##
 ## Tech
