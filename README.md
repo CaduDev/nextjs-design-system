@@ -10,6 +10,15 @@
 ### To add mongodb to the project follow the instructions
 ##### mongodb was used in this project, so after cloning the project, create a `.env` file (don't forget to add it to gitignore) in the project root and create the `MONGODB_URI` environment variable and give it your word connection to connect to mongodb
 ##
+## Languages
+<div>
+  <div>
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  </div>
+</div>
+##
 ## Tech
 - [node.js] - Node.js is open-source, cross-platform software based on Google's V8 interpreter that allows JavaScript code to run outside of a web browser.
 - [react.js] - React is an open source JavaScript library focused on creating user interfaces on web pages. It is maintained by Facebook, Instagram, other companies and a community of individual developers.
@@ -23,8 +32,6 @@
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
     <img src="https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white">
   </div>
 </div>
