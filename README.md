@@ -25,11 +25,12 @@
 
 ## Tech
 
-- [node.js] - Node.js is open-source, cross-platform software based on Google's V8 interpreter that allows JavaScript code to run outside of a web browser.
-- [react.js] - React is an open source JavaScript library focused on creating user interfaces on web pages. It is maintained by Facebook, Instagram, other companies and a community of individual developers.
-- [chakra-ui/core] - Chakra UI is a simple, modular and accessible component library that gives you the building blocks you need to build your React applications.
-- [axios] - Promise based HTTP client for the browser and node.js
-- [mongoDB] - MongoDB é um software de banco de dados orientado a documentos livre, de código aberto e multiplataforma, escrito na linguagem C++
+- [Node.js] - Node.js is open-source, cross-platform software based on Google's V8 interpreter that allows JavaScript code to run outside of a web browser.
+- [React.js] - React is an open source JavaScript library focused on creating user interfaces on web pages. It is maintained by Facebook, Instagram, other companies and a community of individual developers.
+- [Chakra-ui/core] - Chakra UI is a simple, modular and accessible component library that gives you the building blocks you need to build your React applications.
+- [Axios] - Promise based HTTP client for the browser and node.js.
+- [MongoDB] - MongoDB é um software de banco de dados orientado a documentos livre, de código aberto e multiplataforma, escrito na linguagem C++.
+- [Next.js] - Next.js is from the React front end framework created by Veracto from functionality like server rendering and generating web application open servers that allow the development of framework websites that allow the development of static for web applications that allow the development of websites that allow the development of static.
 
 ##
 
